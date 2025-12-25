@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @may-mayyy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact:
+- 👋 Hi, my name is Mayssae El Bazi
 
 <!---
 may-mayyy/may-mayyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
